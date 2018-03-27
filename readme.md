@@ -26,6 +26,9 @@ Al día viernes esperamos tener listas las siguientes funcionalidades:
 3. Upvote o downvote dependiendo de la posición del usuario respecto al premio/nominación
 4. Capacidad de poder escribir y almacenar comentarios de la película
 
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
+
 Día 1
 ![img](https://i.imgur.com/U9n64y7.jpg)
 
