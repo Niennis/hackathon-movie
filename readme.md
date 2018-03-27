@@ -5,6 +5,9 @@ Nominate es una página web, optimizada para su uso en móviles también, enfoca
 
 ![movie2](https://user-images.githubusercontent.com/32283958/37888214-735eea00-309c-11e8-8e75-5c018f5994ff.png)
 
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
+
 ## ¿Cómo llegamos a la idea de este producto?
 Cada año crece la información y difusión de los premios de la Academia, que este año tendrán su versión 90° y que se celebrará el 4 de Marzo. Nos es común galardonear o interesarnos en aquellas películas nominadas y/o ganadoras de un premio otorgado por votación del jurado pero ¿cuál es la opinión que tiene el público objetivo de estas películas respecto a sus triunfos o derrotas?
 
@@ -25,9 +28,6 @@ Al día viernes esperamos tener listas las siguientes funcionalidades:
 2. Asignar cantidad de estrellas a la película
 3. Upvote o downvote dependiendo de la posición del usuario respecto al premio/nominación
 4. Capacidad de poder escribir y almacenar comentarios de la película
-
-## Desarrollado para 
-[Laboratoria](http://laboratoria.la)
 
 Día 1
 ![img](https://i.imgur.com/U9n64y7.jpg)
